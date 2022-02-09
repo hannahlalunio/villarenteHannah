@@ -15,10 +15,10 @@ React Js
 Javascript
 Wordpress
 Web and App Designing
-## 🌱 I’m currently learning React Js
-
+## 🌱 I’m currently learning 
+React Js
 ## 📫 Feel free to message me here laluniohannah@gmail.com
 ## ⚡ Fun fact: 
 I'm always hungry 🌯🍜
 
-
+![ alt text ](https://www.facebook.com/hannahmae.lalunio/badge/Facebook-text-1877F2?style=for-the-badge&logo=Facebook)
