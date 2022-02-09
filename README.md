@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Hannah 😊
 
-<!--
+
 **villarenteHannah/villarenteHannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,5 +20,5 @@ Web and App Designing
 ## 📫 Feel free to message me here laluniohannah@gmail.com
 ## ⚡ Fun fact: 
 I'm always hungry 🌯🍜
--->
+
 
