@@ -20,5 +20,5 @@ React Js
 ## 📫 Feel free to message me here laluniohannah@gmail.com
 ## ⚡ Fun fact: 
 I'm always hungry. I love Burrito and Beef Mami 🌯🍜
-## I aspire 
+## 🌟 I aspire 
 to be a Blogger
