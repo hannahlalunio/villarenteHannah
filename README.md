@@ -19,6 +19,4 @@ Web and App Designing
 React Js
 ## 📫 Feel free to message me here laluniohannah@gmail.com
 ## ⚡ Fun fact: 
-I'm always hungry 🌯🍜
-
-![ alt text ](https://www.facebook.com/hannahmae.lalunio/badge/Facebook-text-1877F2?style=for-the-badge&logo=Facebook)
+I'm always hungry. I love Burrito and Beef Mami 🌯🍜
